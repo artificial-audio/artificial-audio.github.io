@@ -8,18 +8,17 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Artificial Audio Lab
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Artificial Audio Lab** is dedicated to create new sound experiences through signal processing, machine learning and a understanding of human perception.
   
   - block: collection
     content:
-      title: Latest News
+      title: Portfolio
       subtitle:
       text:
       count: 5
@@ -31,10 +30,10 @@ sections:
         tag: ''
       offset: 0
       order: desc
-      page_type: post
+      page_type: portfolio
     design:
-      view: card
-      columns: '1'
+      view: showcase
+      columns: '2'
   
   - block: markdown
     content:
@@ -45,7 +44,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: group_wide.jpeg
           filters:
             brightness: 1
           parallax: false
@@ -55,19 +54,6 @@ sections:
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
-
-  - block: collection
-    content:
-      title: Latest Preprints
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publication
-        publication_type: 'article'
-    design:
-      view: citation
-      columns: '1'
 
   - block: markdown
     content:
