@@ -8,13 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Artificial Audio Lab
+        Artificial Audio
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Artificial Audio Lab** is dedicated to create new sound experiences through signal processing, machine learning and a understanding of human perception.
+        The **Artificial Audio Group** is dedicated to create new sound experiences through signal processing, machine learning and a understanding of human perception. We are closely collaborating across three universities - FAU, Aalto and York.
   
   - block: collection
     content:
