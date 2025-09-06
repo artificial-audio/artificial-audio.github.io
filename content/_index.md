@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        The **Artificial Audio Group** is dedicated to create new sound experiences through signal processing, machine learning and a understanding of human perception. We are closely collaborating across three universities - FAU, Aalto and York.
+        The **Artificial Audio Group** creates new sound experiences through signal processing, machine learning and a understanding of human perception. We are closely collaborating across three universities - FAU, Aalto and York.
   
   - block: collection
     content:
